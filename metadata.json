@@ -1,0 +1,41 @@
+{
+  "name": "BTCSOL",
+  "symbol": "BTCSOL",
+  "description": "BTCSOL is a Regenerative Finance (ReFi) token on Solana with a bonding-curve launch model, charity-aligned value routing, safety reserves, and long-term liquidity design.",
+  "image": "ipfs://REPLACE_WITH_IMAGE_CID",
+  "external_url": "https://btcsol.io",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "ReFi"
+    },
+    {
+      "trait_type": "Launch Model",
+      "value": "Bonding Curve"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://REPLACE_WITH_IMAGE_CID",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6e32dYjSQ5g1511BaKVLaRvd2b52nYZk5npvfjsvbXm2",
+        "share": 100
+      }
+    ]
+  },
+  "socials": {
+    "twitter": "https://x.com/btcsol",
+    "telegram": "https://t.me/btcsol",
+    "discord": "https://discord.gg/btcsol"
+  }
+}
